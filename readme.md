@@ -68,7 +68,8 @@
 <br>
 
 <h3>Statistical Data :-</h3>
-<p>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghbrites)](https://github.com/anuraghazra/github-readme-stats)</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghbrites)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
